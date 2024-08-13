@@ -11,7 +11,7 @@ Tareas:
 4.Subir los cambios
 ` git push origin main `
 5. Verificar los cambios
-6.???
+6. ???
 
 ---
 
