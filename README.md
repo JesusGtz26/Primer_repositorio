@@ -11,6 +11,7 @@ Tareas:
 4.Subir los cambios
 ` git push origin main `
 5. Verificar los cambios
+6.???
 
 ---
 
@@ -18,4 +19,4 @@ Tareas:
 
 ` git push origin `
 
-![image]https://github.com/fluidicon.png
+![image](https://github.com/fluidicon.png)
